@@ -26,11 +26,12 @@ export default {
   }
 
   #center {
-    height: 100vh;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin: 30px 0;
   }
 
 </style>
